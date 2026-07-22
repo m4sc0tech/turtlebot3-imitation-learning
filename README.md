@@ -1,6 +1,6 @@
 # Matías Silva
 
-Estudiante de Ciencias de la Computación en la Universidad Nacional Mayor de San Marcos (CEPRE-UNMSM 2026-I).
+Estudiante de Ciencias de la Computación en la Universidad Nacional Mayor de San Marcos.
 
 Documentando mi camino en robótica aplicada, empezando por un proyecto de control de robot con mando DS4.
 
