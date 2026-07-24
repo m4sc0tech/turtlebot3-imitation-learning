@@ -1,3 +1,9 @@
+  [🇪🇸 Leer en español](README.es.md)
+
+# Matías Silva
+
+Computer Science student at Universidad Nacional Mayor de San Marcos. 
+
 Documenting my journey in applied robotics, starting with a robot control project using a DS4 controller.
 
 ### Current Project (2026)
