@@ -18,6 +18,8 @@ Controlling a TurtleBot3 using a DS4 controller, built on ROS 2 Jazzy Jalisco an
 I'm at an early stage in applied robotics. I actively use AI tools as part of my learning process — to understand concepts, debug code, and accelerate the learning curve — the same way I'd use documentation or a mentor. I review, understand, and document every technical decision before considering it final; the goal is genuine learning, not just producing code.
 
 ### Goal
-Building an honest, auditable portfolio on the path to a Master's in the US, with a long-term focus on AI/ML engineering.
+From first-year student to AI/ML engineer at a top-tier company, in 4-5 
+years. An honest, auditable portfolio — a little better every week — on 
+the way to a master's degree in the US.
 
 Open to feedback from the community.
