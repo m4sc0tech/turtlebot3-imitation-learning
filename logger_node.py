@@ -20,6 +20,7 @@ class TurtleBot3Logger(Node):
         [scan_sub, cmd_vel_sub],
         queue_size=10,
         slop=0.1
+        allow_headerless=True
     )
         self.ts.registerCallback(self.sync_callback)
 
