@@ -18,6 +18,10 @@ Controlando un TurtleBot3 usando un control DS4, construido sobre ROS 2 Jazzy Ja
 Estoy en una etapa temprana en robótica aplicada. Uso activamente herramientas de IA como parte de mi proceso de aprendizaje — para entender conceptos, depurar código y acelerar la curva de aprendizaje — de la misma forma en que usaría documentación o un mentor. Reviso, entiendo y documento cada decisión técnica antes de darla por final; el objetivo es aprendizaje genuino, no solo producir código.
 
 ### Objetivo
-Construir un portafolio honesto y auditable en el camino hacia una maestría en EE.UU., con un enfoque a largo plazo en ingeniería de IA/ML.
+De cero a ingeniero de IA/ML en una empresa top, en 4-5 años. Un portafolio 
+honesto, auditable, y un poco mejor cada semana — rumbo a una maestría en 
+EE.UU.
+
+Abierto a feedback de la comunidad.
 
 
