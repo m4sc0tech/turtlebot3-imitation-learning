@@ -20,7 +20,4 @@ Estoy en una etapa temprana en robótica aplicada. Uso activamente herramientas 
 ### Objetivo
 Construir un portafolio honesto y auditable en el camino hacia una maestría en EE.UU., con un enfoque a largo plazo en ingeniería de IA/ML.
 
-Abierto a feedback de la comunidad.
-Construir un portafolio honesto y auditable camino a una maestría en Robótica e Intelligent Systems (NTU Singapur).
 
-Abierto a feedback de la comunidad.
