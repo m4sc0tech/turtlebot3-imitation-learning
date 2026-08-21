@@ -37,7 +37,9 @@ class PS4TeleopNode(Node):
         """Zero out small stick noise near center."""
         if abs(value) < self.deadzone:
             return 0.0
-        return value 
+
+        sign = 1.0 if value > 0 else -1.0
+        return sign * (abs(value) - self.deadzone) / (1.0 - self.deadzone) 
 
     def timer_callback(self):
 
@@ -69,7 +71,7 @@ def main(args = None):
 
         stop_msg = Twist()
         node.publisher_.publish(stop_msg)
-
+        rclpy.spin_once(node, timeout_sec = 0.1)
         node.destroy_node()
         if rclpy.ok():
             rclpy.shutdown()
